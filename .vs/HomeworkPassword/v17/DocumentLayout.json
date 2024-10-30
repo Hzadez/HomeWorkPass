@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hzade\\Desktop\\Backend\\HomeworkPassword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3382A2DC-9FBE-4D78-9AB2-850FC1FAA6EB}|HomeworkPassword\\HomeworkPassword.csproj|c:\\users\\hzade\\desktop\\backend\\homeworkpassword\\homeworkpassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3382A2DC-9FBE-4D78-9AB2-850FC1FAA6EB}|HomeworkPassword\\HomeworkPassword.csproj|solutionrelative:homeworkpassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\Backend\\HomeworkPassword\\HomeworkPassword\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkPassword\\Program.cs",
+              "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\HomeworkPassword\\HomeworkPassword\\Program.cs",
+              "RelativeToolTip": "HomeworkPassword\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:02:24.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
